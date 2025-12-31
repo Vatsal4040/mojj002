@@ -1,30 +1,35 @@
-Would You Press the Button?
+# Would You Press the Button?
 
-Concept:
-You’re given a dilemma with a catch.
+A moral tradeoff game.
 
-You must choose:
+You are offered a benefit.
+It comes with a cost.
+You decide whether to accept it.
 
--YES — press the button
+## Why this game exists
+This game explores decision-making under imperfect conditions.
 
--NO — walk away
+There is no correct answer.
+The interesting part is the hesitation.
 
-Then you see what most people chose.
+## How it works
+- Each scenario presents a reward and a consequence
+- You choose whether to press the button
+- Results are shown immediately
+- Move on to the next scenario
 
-How it works:
+Choices are final for each round.
 
--Large pool of dilemmas (50+)
+## Design principles
+- Text-first experience
+- Clear contrast between reward and consequence
+- No scoring pressure
+- No right or wrong outcomes
 
--Random 10 per session
+## Notes
+- The game is about reflection, not winning
+- Scenarios are intentionally subjective
 
--Percentage results shown visually
-
--Result personality label at the end
-
-Why it’s fun:
-
--Moral, funny, and sometimes uncomfortable
-
--Highly replayable
-
--Great for sharing and discussion
+## Status
+✅ Locked  
+Game mechanics and logic should remain unchanged.
